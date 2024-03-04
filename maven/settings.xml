@@ -1,20 +1,25 @@
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
-    <localRepository />
-    <interactiveMode />
-    <offline />
-    <pluginGroups />
-    <servers />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <localRepository/>
+    <interactiveMode/>
+    <offline/>
+    <pluginGroups/>
+    <servers/>
     <mirrors>
         <mirror>
-            <id>aliyunmaven</id>
-            <mirrorOf>*</mirrorOf>
-            <name>阿里云公共仓库</name>
+            <id>aliyun-central</id>
+            <name>Aliyun Central Mirror</name>
+            <url>https://maven.aliyun.com/repository/central</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+        <mirror>
+            <id>aliyun-public</id>
+            <name>Aliyun Public Mirror</name>
             <url>https://maven.aliyun.com/repository/public</url>
+            <mirrorOf>jcenter</mirrorOf>
         </mirror>
     </mirrors>
-    <proxies />
-    <profiles />
-    <activeProfiles />
+    <proxies/>
+    <profiles/>
+    <activeProfiles/>
 </settings>
