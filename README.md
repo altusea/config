@@ -18,3 +18,7 @@ scoop bucket add java
 scoop install uutils-coreutils
 scoop install curl wget
 ```
+
+## Git
+
+config according to [this page](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
