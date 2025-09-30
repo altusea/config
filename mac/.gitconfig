@@ -22,4 +22,4 @@
 [core]
     autocrlf = true
 [credential]
-        helper = /usr/local/share/gcm-core/git-credential-manager
+    helper = /usr/local/share/gcm-core/git-credential-manager
