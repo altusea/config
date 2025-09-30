@@ -1,0 +1,25 @@
+[column]
+    ui = auto
+[init]
+    defaultBranch = main
+[push]
+    default = simple
+    autoSetupRemote = true
+    followTags = true
+[diff]
+    algorithm = histogram
+    colorMoved = plain
+    mnemonicPrefix = true
+    renames = true
+[fetch]
+    prune = true
+    pruneTags = true
+    all = true
+[pull]
+    rebase = true
+[user]
+    name = altusea
+[core]
+    autocrlf = true
+[credential]
+        helper = /usr/local/share/gcm-core/git-credential-manager
