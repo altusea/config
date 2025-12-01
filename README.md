@@ -22,3 +22,10 @@ scoop install curl wget
 ## Git
 
 config according to [this page](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+
+### jj
+
+```shell
+jj config set --user user.name "altusea"
+jj config set --user user.email "zt.song@outlook.com"
+```
