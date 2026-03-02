@@ -35,6 +35,12 @@ pnpx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-ex
 pnpx skills add https://github.com/supabase/agent-skills --skill supabase-postgres-best-practices -g
 ```
 
+> obsidian
+
+```shell
+npx skills add https://github.com/kepano/obsidian-skills
+```
+
 ## claude specific
 
 superpowers
