@@ -35,6 +35,12 @@ pnpx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-ex
 pnpx skills add https://github.com/supabase/agent-skills --skill supabase-postgres-best-practices -g
 ```
 
+> context engineering
+
+```shell
+pnpx skills add OthmanAdi/planning-with-files --skill planning-with-files -g
+```
+
 > obsidian
 
 ```shell
