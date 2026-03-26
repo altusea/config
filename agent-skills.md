@@ -44,7 +44,7 @@ pnpx skills add OthmanAdi/planning-with-files --skill planning-with-files -g
 > obsidian
 
 ```shell
-npx skills add https://github.com/kepano/obsidian-skills
+pnpx skills add https://github.com/kepano/obsidian-skills -g
 ```
 
 ## claude specific
