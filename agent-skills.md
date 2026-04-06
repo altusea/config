@@ -2,7 +2,7 @@
 
 ## general (opencode)
 
-install to `~/agent/skills`, symlink
+install to `~/.agent/skills`, symlink
 
 > python & rust
 
@@ -20,6 +20,12 @@ pnpx skills add antfu/skills --skill='*' -g
 
 ```shell
 pnpx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max -g
+```
+
+> dev
+
+```shell
+pnpx skills add luoling8192/software-design-philosophy-skill -g
 ```
 
 > ios
