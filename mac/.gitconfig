@@ -20,6 +20,6 @@
 [user]
     name = altusea
 [core]
-    autocrlf = true
+	autocrlf = input
 [credential]
     helper = /usr/local/share/gcm-core/git-credential-manager
