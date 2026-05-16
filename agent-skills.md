@@ -35,6 +35,12 @@ pnpx skills add https://github.com/wshobson/agents --skill mobile-ios-design -g 
 pnpx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-expert-skill -g -y
 ```
 
+> client
+
+```shell
+pnpx skills add yetone/native-feel-skill -g -y
+```
+
 > database
 
 ```shell
