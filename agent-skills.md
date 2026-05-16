@@ -33,6 +33,7 @@ pnpx skills add luoling8192/software-design-philosophy-skill -g -y
 ```shell
 pnpx skills add https://github.com/wshobson/agents --skill mobile-ios-design -g -y
 pnpx skills add https://github.com/avdlee/swiftui-agent-skill --skill swiftui-expert-skill -g -y
+pnpx skills add https://github.com/openai/plugins --skill swiftui-liquid-glass -g -y
 ```
 
 > client
