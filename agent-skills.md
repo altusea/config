@@ -10,12 +10,6 @@ install to `~/.agent/skills`, symlink
 pnpx skills add PsiACE/skills --skill='*' -g -a universal
 ```
 
-> vue
-
-```shell
-pnpx skills add antfu/skills --skill='*' -g -a universal
-```
-
 > ui & ux
 
 ```shell
@@ -40,12 +34,6 @@ pnpx skills add https://github.com/openai/plugins --skill swiftui-liquid-glass -
 
 ```shell
 pnpx skills add yetone/native-feel-skill -g -a universal
-```
-
-> database
-
-```shell
-pnpx skills add https://github.com/supabase/agent-skills --skill supabase-postgres-best-practices -g -a universal
 ```
 
 > context engineering
